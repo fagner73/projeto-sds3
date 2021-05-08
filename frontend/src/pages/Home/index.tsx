@@ -20,6 +20,8 @@ const Home = () => {
 
                 </div>
                 </div>
+                <div>  <h1 className="display-4"></h1>
+                </div>
 
             <Footer />
         </>
